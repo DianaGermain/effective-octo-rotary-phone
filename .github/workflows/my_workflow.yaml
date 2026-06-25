@@ -21,7 +21,6 @@ jobs:
           python-version: '3.13' 
       - name: Install dependencies
         run: pip install -r requirements.txt
-        working-directory: ./1-env-setup
       - name: Run the script
         run: python app.py
       - name: Run tests
