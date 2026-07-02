@@ -1,1 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*pycache*
+*cache*
+*.pyc
+*.pyo
+*.pyd
+
+# Environments and Packages
+.venv/
+venv/
+env/
+lib/
+lib64/
+
+# Secrets, API keys, and Credentials
 .env
+*.env
+.env.*
+secrets.toml
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+
+# LLM & AI Framework Caches
+.langchain/
+.chroma/
+*.log
+
+# Operating System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+*pycache*
+*cache*
+*.pyc
+.vscode
