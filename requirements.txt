@@ -11,3 +11,4 @@ redis
 pytest
 uvicorn
 fastapi
+flask
