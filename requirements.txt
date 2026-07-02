@@ -6,3 +6,8 @@ langgraph
 wikipedia
 langchain-community
 langchain_google_genai
+pypdf
+redis
+pytest
+uvicorn
+fastapi
